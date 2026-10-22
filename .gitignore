@@ -1,0 +1,16 @@
+# only the web app goes to GitHub Pages
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/style.css
+!/app.js
+!/srs.js
+!/data.js
+!/badges.js
+!/apple-touch-icon.png
+!/images/
+!/manual/
+/manual/*
+!/manual/Arizona-Driver-License-Manual.pdf
+.DS_Store
